@@ -2,7 +2,7 @@
 
 # What is Fractals Community?
 
-Fractals is student club in [GUC](https://www.guc.edu.eg/) for math activities. Our activities include sharing problems, hosting events and organising contests and competitions alongside community discussuions and sessions. We aim to bring together students with any interest in math in any areas and on any level. 
+Fractals is student community for math activities. Our activities include sharing problems, holding contests and competitions alongside community discussuions and sessions. We aim to bring together people with any interest in math in any areas and on any level. 
 
 Feel free to:
 - Check out our club on [Facebook](https://www.facebook.com/fractalscommunity).
